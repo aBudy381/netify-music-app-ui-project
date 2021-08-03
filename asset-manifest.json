@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/netify-music-app-ui-project/static/css/main.a617e044.chunk.css",
+    "main.js": "/netify-music-app-ui-project/static/js/main.78c987ab.chunk.js",
+    "main.js.map": "/netify-music-app-ui-project/static/js/main.78c987ab.chunk.js.map",
+    "runtime-main.js": "/netify-music-app-ui-project/static/js/runtime-main.a610f96c.js",
+    "runtime-main.js.map": "/netify-music-app-ui-project/static/js/runtime-main.a610f96c.js.map",
+    "static/js/2.31bcf222.chunk.js": "/netify-music-app-ui-project/static/js/2.31bcf222.chunk.js",
+    "static/js/2.31bcf222.chunk.js.map": "/netify-music-app-ui-project/static/js/2.31bcf222.chunk.js.map",
+    "static/js/3.bea35dfa.chunk.js": "/netify-music-app-ui-project/static/js/3.bea35dfa.chunk.js",
+    "static/js/3.bea35dfa.chunk.js.map": "/netify-music-app-ui-project/static/js/3.bea35dfa.chunk.js.map",
+    "index.html": "/netify-music-app-ui-project/index.html",
+    "static/css/main.a617e044.chunk.css.map": "/netify-music-app-ui-project/static/css/main.a617e044.chunk.css.map",
+    "static/js/2.31bcf222.chunk.js.LICENSE.txt": "/netify-music-app-ui-project/static/js/2.31bcf222.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/netify-music-app-ui-project/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a610f96c.js",
+    "static/js/2.31bcf222.chunk.js",
+    "static/css/main.a617e044.chunk.css",
+    "static/js/main.78c987ab.chunk.js"
+  ]
+}
